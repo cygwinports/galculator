@@ -3,8 +3,3 @@ inherit gnome2
 DESCRIPTION="GTK+ scientific calculator"
 HOMEPAGE="http://galculator.sourceforge.net/"
 SRC_URI="mirror://sourceforge/${PN}/${P}.tar.bz2"
-
-if ! defined PVP[2]
-then
-	SRC_DIR="${P}.0"
-fi
