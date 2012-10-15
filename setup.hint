@@ -1,7 +1,0 @@
-category: Gnome Math
-requires: libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libglade2.0_0 libintl8 libpango1.0_0
-sdesc: "GTK+ scientific multi-mode calculator"
-ldesc: "galculator is a GTK 2 based calculator with ordinary 
-notation/reverse polish notation, a formula entry mode, different number 
-bases (DEC, HEX, OCT, BIN) and different units of angular measure (DEG, 
-RAD, GRAD)."
