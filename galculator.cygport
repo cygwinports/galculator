@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="galculator"
-VERSION=2.0
+VERSION=2.0.1
 RELEASE=1
 CATEGORY="Math"
 SUMMARY="GTK+ scientific multi-mode calculator"
