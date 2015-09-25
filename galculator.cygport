@@ -1,12 +1,12 @@
 inherit gnome2
 
 NAME="galculator"
-VERSION=2.1.3
+VERSION=2.1.4
 RELEASE=1
 CATEGORY="Math"
 SUMMARY="GTK+ scientific multi-mode calculator"
 DESCRIPTION="galculator is a GTK+ based calculator with ordinary notation/reverse
 polish notation, a formula entry mode, different number bases (DEC, HEX, OCT,
 BIN) and different units of angular measure (DEG, RAD, GRAD)."
-HOMEPAGE="http://galculator.sourceforge.net/"
-SRC_URI="mirror://sourceforge/${NAME}/${NAME}-${VERSION}.tar.bz2"
+HOMEPAGE="http://galculator.mnim.org"
+SRC_URI="https://github.com/galculator/galculator/archive/v${VERSION}/galculator-v${VERSION}.tar.gz"
